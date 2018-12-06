@@ -1,0 +1,19 @@
+== Solution written in Kotlin
+
+To build and run the tests:
+
+    ./gradlew build
+
+To run:
+
+   ./gradlew run
+
+== Solution
+
+The data is parsed from a text file in `src/main/resources`.
+
+=== Part 1
+
+flapMap + map of two Ranges instead of a nested loop.
+
+=== Part 2
